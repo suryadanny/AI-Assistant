@@ -1,0 +1,10 @@
+brave-search==0.1.8
+jproperties==2.1.2
+groq==0.11.0
+beautifulsoup4==4.12.3
+google-api-python-client==2.149.0
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pytz

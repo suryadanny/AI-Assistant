@@ -1,0 +1,2 @@
+[console_scripts]
+rev = main:main
