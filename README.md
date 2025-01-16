@@ -26,6 +26,8 @@ This project implements a modular **Personal Assistant System** capable of handl
 
 Run the main script with appropriate commands:
 
+```bash
+git clone https://github.com/your-username/personal-assistant-system.git
 
 ### Overview
 
