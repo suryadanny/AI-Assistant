@@ -25,11 +25,9 @@ This project implements a modular **Personal Assistant System** capable of handl
 ### Usage
 
 Run the main script with appropriate commands:
-   ```bash
-   python main.py Schedule a meeting with John on Monday at 2 PM
 
 
-## Overview
+### Overview
 
 The system consists of:
 - A **Main Script** that serves as the entry point, routing user inputs to the appropriate services.
