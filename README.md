@@ -2,6 +2,35 @@
 
 This project implements a modular **Personal Assistant System** capable of handling a variety of tasks such as email management, meeting scheduling, PDF document parsing, and web search functionality. It is designed with a service-oriented architecture, ensuring that each component specializes in specific operations while collaborating seamlessly.
 
+---
+
+
+## Getting Started
+
+### Prerequisites
+- Python 3.x
+- Required Libraries: `PyPDF2`, `jproperties`, `requests`, and others listed in `requirements.txt`.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/personal-assistant-system.git
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Set up API credentials for Gmail, Google Calendar, Brave API, and the language model.
+
+### Usage
+
+Run the main script with appropriate commands:
+
+```bash
+python main.py "Schedule a meeting with John on Monday at 2 PM"
+
+---
+
 ## Overview
 
 The system consists of:
@@ -83,27 +112,3 @@ The system consists of:
 - Retrieves, processes, and summarizes search results efficiently using multithreading.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Required Libraries: `PyPDF2`, `jproperties`, `requests`, and others listed in `requirements.txt`.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/personal-assistant-system.git
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   
-3. Set up API credentials for Gmail, Google Calendar, Brave API, and the language model.
-
-### Usage
-
-Run the main script with appropriate commands:
-
-```bash
-python main.py "Schedule a meeting with John on Monday at 2 PM"
