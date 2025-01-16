@@ -1,7 +1,6 @@
 # Personal AI Assistant: Architecture and Features
 
-This project implements a modular **Personal Assistant System** capable of handling a variety of tasks such as email management, meeting scheduling, PDF document parsing, and web search functionality. It is designed with a service-oriented architecture, ensuring that each component specializes in specific operations while collaborating seamlessly.
-
+This project implements a modular **Personal Assistant System** capable of handling a variety of tasks such as email management, meeting scheduling, PDF document parsing, and web search functionality.
 ---
 
 
