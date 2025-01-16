@@ -90,8 +90,8 @@ The system consists of:
 ## Key Functionalities
 
 ### Command Parsing
-- Parses commands to determine the required task.
-  - Example: Commands with "email" activate `GSuiteService`, while "PDF" invokes `PdfService`.
+- The task indentification is driven by the local LLM
+  - Example: Commands with "message or implying message" activate `GSuiteService`, while "PDF or document" invokes `PdfService`.
 
 ### Email Management
 - Automates sending and replying to emails.
