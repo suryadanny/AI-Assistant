@@ -29,7 +29,6 @@ Run the main script with appropriate commands:
 ```bash
 python main.py "Schedule a meeting with John on Monday at 2 PM"
 
----
 
 ## Overview
 
