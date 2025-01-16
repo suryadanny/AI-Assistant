@@ -24,10 +24,11 @@ This project implements a modular **Personal Assistant System** capable of handl
 
 ### Usage
 
-Run the main script with appropriate commands:
+1. Run the main script with appropriate commands:
+   ```bash
+   python main.py "Schedule a meeting with John on Monday at 2 PM"
 
-```bash
-git clone https://github.com/your-username/personal-assistant-system.git
+---
 
 ### Overview
 
