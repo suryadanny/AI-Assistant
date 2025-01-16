@@ -26,7 +26,7 @@ This project implements a modular **Personal Assistant System** capable of handl
 
 Run the main script with appropriate commands:
    ```bash
-   python main.py "Schedule a meeting with John on Monday at 2 PM"
+   python main.py Schedule a meeting with John on Monday at 2 PM
 
 
 ## Overview
