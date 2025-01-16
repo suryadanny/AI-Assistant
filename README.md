@@ -94,3 +94,16 @@ The system consists of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/personal-assistant-system.git
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Set up API credentials for Gmail, Google Calendar, Brave API, and the language model.
+
+### Usage
+
+Run the main script with appropriate commands:
+
+```bash
+python main.py "Schedule a meeting with John on Monday at 2 PM"
